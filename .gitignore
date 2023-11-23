@@ -1,0 +1,11 @@
+\venv
+\without_mask_detected
+dataset/with_mask
+dataset/without_mask
+\.idea
+\.ipynb_checkpoints
+*.pptx
+*.pdf
+*.docx
+*.log
+*.ipynb
